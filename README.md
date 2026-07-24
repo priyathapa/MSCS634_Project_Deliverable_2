@@ -5,7 +5,7 @@
 
 This project is the second deliverable for **MSCS 634: Data Mining** and focuses on developing and evaluating regression models to predict the number of calories burned during a workout. Building on the data preparation and exploratory analysis completed in Deliverable 1, this phase emphasizes feature engineering, regression modeling, model evaluation, and performance comparison.
 
-The primary goal of this project was to develop predictive models capable of estimating **Calories_Burned** using demographic, physiological, body composition, hydration, and workout-related features. Two regression algorithms—**Multiple Linear Regression** and **Ridge Regression**—were implemented and compared using multiple evaluation metrics and cross-validation techniques to determine which model generalized better to unseen data.
+The primary goal of this project was to develop predictive models capable of estimating **Calories_Burned** using demographic, physiological, body composition, hydration, and workout-related features. Two regression algorithms **Multiple Linear Regression** and **Ridge Regression** were implemented and compared using multiple evaluation metrics and cross-validation techniques to determine which model generalized better to unseen data.
 
 ---
 
